@@ -21,10 +21,8 @@ I am Farzad Ahmed, a Lecturer, at <a href="http://aust.edu/">Ahsanullah Universi
 
 
 # Activities 
-* <span style="color:Blue"> [May 05, 2022] </span> - I have started working with [Professor Miaomiao Zhang](https://engineering.virginia.edu/faculty/miaomiao-zhang) as my Ph.D. advisor. I'll be working in the field of Computer Vision, concentrating on health-care applications and its Security. For any kind of collaboration, don't hesitate to communicate.
 * <span style="color:Blue"> [April 25, 2022] </span> - Reached 100+ citations on my Google Scholar profile.
-* <span style="color:Blue"> [January 19, 2022] </span> - Started working as Graduate Program Representative at [UVA CSGSG](https://csgsg.org/).
-* <span style="color:Blue"> [August 28, 2021] </span> - One long survey paper is accepted and published at [Springer Nature Computer Science ](https://link.springer.com/article/10.1007/s42979-021-00823-1) Journal.
+
 * <span style="color:Blue"> [May 8, 2021] </span> - One long paper is accepted at [Springer Nature Computer Science ](https://link.springer.com/article/10.1007/s42979-021-00690-w) Journal.
 * <span style="color:Blue"> [March 3, 2021] </span> - One paper won the [<span style ="color:Red">**3rd Best Paper Award**</span>](https://tonmoy-hossain.github.io/files/ICCIT-Best-Paper.pdf) at [ICCIT 2020](http://iccit.org.bd/2020/).
 * <span style="color:Blue"> [January 23, 2021] </span> - One long paper is accepted at [Springer Nature Computer Science](https://link.springer.com/article/10.1007/s42979-021-00487-x) Journal.
@@ -38,18 +36,9 @@ I am Farzad Ahmed, a Lecturer, at <a href="http://aust.edu/">Ahsanullah Universi
 * <span style="color:Blue"> [June 09, 2020] </span> - A long paper was accepted at [ICACIE 2020](https://www.icacie.com/2020/).
 * <span style="color:Blue"> [June 07, 2020] </span> - A short paper was presented at [Tensymp 2020](http://tensymp2020.com/) [(presentation)](https://tonmoy-hossain.github.io/files/tensymp_presentation.pdf).
 * <span style="color:Blue"> [April 28, 2020] </span> - One paper got accepted to [Tensymp 2020](http://tensymp2020.com/).
-* <span style="color:Blue"> [January 26, 2020] </span> - Joined as a Lecturer in the [Department of CSE, Ahsanullah University of Science and Technology](http://aust.edu/).
-* <span style="color:Blue"> [December 21, 2019] </span> - A [paper](https://ieeexplore.ieee.org/document/9068847) was presented at EICT 2019.
-* <span style="color:Blue"> [December 19, 2019] </span> - Attended [ICCIT 2019](http://iccit.org.bd/2019/), in Dhaka, Bangladesh and presented a [paper](https://ieeexplore.ieee.org/document/9038609). 
-* <span style="color:Blue"> [November 24, 2019] </span> - One [paper](https://ieeexplore.ieee.org/document/9068847) got accepted to EICT 2019.
-* <span style="color:Blue"> [November 21, 2019] </span> - One [paper](https://ieeexplore.ieee.org/document/9038609) got accepted to [ICCIT 2019](http://iccit.org.bd/2019/).
-* <span style="color:Blue"> [August 25, 2019] </span> - Joined as an Adjunct Lecturer in the [Department of CSE, Ahsanullah University of Science and Technology](http://aust.edu/).
-* <span style="color:Blue"> [June 23, 2019]  </span> - Successfully defended my [B.Sc. Thesis](https://tonmoy-hossain.github.io/files/Hossain_Tonmoy_B.Sc._Thesis.pdf). 
-* <span style="color:Blue"> [May 05, 2019] </span> - Attended [ICASERT 2019](http://home.ewubd.edu/events/1st-international-conference-on-advances-in-science-engineering-and-robotics-technology-icasert-2019/), in Dhaka, Bangladesh, and presented a [paper](https://ieeexplore.ieee.org/document/8934561).  
-* <span style="color:Blue"> [April 10, 2019] </span> - One [paper](https://ieeexplore.ieee.org/document/8934561) got accepted to [ICASERT 2019](http://home.ewubd.edu/events/1st-international-conference-on-advances-in-science-engineering-and-robotics-technology-icasert-2019/)
-* <span style="color:Blue"> [March 23, 2019] </span> - Ranked 7th position at [Inter University Math Olympiad](http://tonmoy-hossain.github.io/files/Math_Olympiad.pdf)
-* <span style="color:Blue"> [March 13, 2019] </span> - One [journal paper](https://thesai.org/Downloads/Volume10No3/Paper_68-A_Gender_Neutral_Approach_to_Detect_Early_Alzheimers_Disease.pdf) got accepted to [International Journal of Advanced Computer Science and Applications (IJACSA)](https://thesai.org/Publications/IJACSA/)
-* <span style="color:Blue"> [March 1, 2019] </span> - One [journal paper](https://www.ijser.org/researchpaper/Brain-Tumor-Segmentation-Techniques-on-Medical-Images-A-Review.pdf) got accepted.
+* <span style="color:Blue"> [December 16, 2021] </span> - Joined as a Lecturer in the [Department of CSE, Ahsanullah University of Science and Technology](http://aust.edu/).
+* <span style="color:Blue"> [February 01, 2020] </span> - Joined as a Contractual Lecturer in the [Department of CSE, BRAC University](https://www.bracu.ac.bd/).
+* <span style="color:Blue"> [January 01, 2020]  </span> - Successfully defended my [B.Sc. Thesis](https://Farzad-1996.github.io/files/Farzad_B.Sc._Thesis.pdf). 
 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=52vxgbx02tg&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
 

@@ -46,5 +46,5 @@ Ahsanullah University of Science and Technology<br />
 Bangladesh <br /> 
 </address> 
 <br /> 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3142.6637063595263!2d-78.51303458467491!3d38.031618779713504!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b387de913a5b07%3A0xb964f7ee988d1b26!2sRice%20Hall!5e0!3m2!1sen!2sus!4v1632759290420!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+<iframe src="https://goo.gl/maps/DpNNN2YZ3hibQA4p8" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 __________________________________________________________

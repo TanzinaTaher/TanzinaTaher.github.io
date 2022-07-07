@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tonmoy Hossain"
+title                    : "Farzad Ahmed"
 title_separator          : "-"
-name                     : &name "Tonmoy Hossain"
+name                     : &name "Farzad Ahmed"
 description              : &description "personal description"
-url                      : https://tonmoy-hossain.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://Farzad-1996.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "tonmoy-hossain/tonmoy-hossain.github.io"
+repository               : "Farzad-1996/Farzad-1996.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,16 +80,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tonmoy Hossain"
-  avatar           : "final_picture.jpg"
-  bio              : "Communicating with the data to contribute to the field of Deep Learning and Computer Vision for mankind is my pre-eminent ambition"
-  location         : "Virginia, United States"
+  name             : "Farzad Ahmed"
+  avatar           : "FarzadImage.jpg"
+  bio              : "Dream Big or Go Home"
+  location         : "Dhaka, Bangladesh"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=JoLJE7AAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=tFYmHMsAAAAJ&hl=en"
   DBLP             : 
   email            :  pwg7jb@virginia.edu
-  researchgate     :  "https://www.researchgate.net/profile/Tonmoy_Hossain2"
+  researchgate     :  "https://www.researchgate.net/profile/Farzad-Ahmed"
   uri              :
   bitbucket        :
   codepen          :
@@ -97,14 +97,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "tonmoy-hossain"
+  github           : "Farzad-1996"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/tonmoy-hossain-dihan"
-  orcid            : "https://orcid.org/0000-0002-5808-6391"
+  linkedin         : "https://www.linkedin.com/in/farzad-ahmed-3b151a13a/?originalSubdomain=bd"
+  orcid            : #"https://orcid.org/0000-0002-5808-6391"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

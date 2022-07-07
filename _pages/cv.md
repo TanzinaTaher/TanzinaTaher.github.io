@@ -26,7 +26,7 @@ Department of Computer Science and Engineering <br/>
 Ahsanullah University of Science and Technology<br />
 <i style='color:#000099;'>**February 2020 - December 2020**</i>
 
-#[Download Full CV](https://tonmoy-hossain.github.io/files/TonmoyHossainCV.pdf) [<ins>*Last Updated on September 25, 2021*</ins>]
+[Download Full CV](https://farzad-1996.github.io/files/FarzadAhmedCV.pdf) [<ins>*Last Updated on September 25, 2021*</ins>]
 
 ## Contact Me
 -------------
@@ -46,5 +46,5 @@ Ahsanullah University of Science and Technology<br />
 Bangladesh <br /> 
 </address> 
 <br /> 
-<iframe src="https://goo.gl/maps/DpNNN2YZ3hibQA4p8" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+<iframe src="<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d29211.984706994335!2d90.3892496426291!3d23.765271285386756!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755c77decb5f845%3A0xc2eadd2f3b867792!2sAhsanullah%20University%20of%20Science%20and%20Technology!5e0!3m2!1sen!2sbd!4v1657228241461!5m2!1sen!2sbd" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 __________________________________________________________

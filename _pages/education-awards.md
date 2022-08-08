@@ -25,4 +25,7 @@ redirect_from:
 * **Dean's List of Honors** (Bachelor of Science)
 * Participated in International Conference on Electronics, Communications, and Information Technology 2021 (ICECIT 2021)
 * Participated in 2020 IEEE Region 10 Symposium (TENSYMP 2020), Dhaka, Bangladesh
+
+
+
 ___________________________________________

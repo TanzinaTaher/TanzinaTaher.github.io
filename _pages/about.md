@@ -21,9 +21,9 @@ I am Farzad Ahmed, a Lecturer, at <a href="http://aust.edu/">Ahsanullah Universi
 
 
 # Activities 
-* <span style="color:Blue"> [July 21, 2022] </span> - One paper is accepted at [MIET 2022](https://confmiet.org/) .
-* <span style="color:Blue"> [September 14, 2021] </span> - One paper is accepted at [ICECIT 2021](https://conference.ku.ac.bd/ICECIT/2021/) .
-* <span style="color:Blue"> [August 28, 2021] </span> - One long paper is accepted at [Springer Nature Computer Science](https://link.springer.com/article/10.1007/s42979-021-00823-1) Journal.
+* <span style="color:Blue"> [July 21, 2022] </span> - One paper got accepted at [MIET 2022](https://confmiet.org/) .
+* <span style="color:Blue"> [September 14, 2021] </span> - One paper got accepted at [ICECIT 2021](https://conference.ku.ac.bd/ICECIT/2021/) .
+* <span style="color:Blue"> [August 28, 2021] </span> - One long paper got accepted at [Springer Nature Computer Science](https://link.springer.com/article/10.1007/s42979-021-00823-1) Journal.
 * <span style="color:Blue"> [December 10, 2020] </span> - One paper got accepted at [Tensymp 2020](http://tensymp2020.com/).
 * <span style="color:Blue"> [December 16, 2021] </span> - Joined as a Lecturer in the [Department of CSE, Ahsanullah University of Science and Technology](http://aust.edu/).
 * <span style="color:Blue"> [February 01, 2020] </span> - Joined as a Contractual Lecturer in the [Department of CSE, BRAC University](https://www.bracu.ac.bd/).

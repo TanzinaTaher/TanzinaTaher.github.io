@@ -26,7 +26,7 @@ Department of Computer Science and Engineering <br/>
 Ahsanullah University of Science and Technology<br />
 <i style='color:#000099;'>**February 2020 - December 2020**</i>
 
-[Download Full CV](https://farzad-1996.github.io/files/FarzadAhmedCV.pdf) [<ins>*Last Updated on September 25, 2021*</ins>]
+[Download Full CV](https://farzad-1996.github.io/files/FarzadAhmedCV.pdf) [<ins>*Last Updated on August 9, 2022*</ins>]
 
 ## Contact Me
 -------------

@@ -18,7 +18,7 @@ author_profile: true
 ## Undergraduate Course Projects [2015-2020]
 ----------------
 * Benchmarking Different Versions of Bert (*Python, Tensorflow*)
-* Sentiment Classification (*Pyton, Scikit Learn. Tensorflow*)
+* Sentiment Classification (*Pyton, Scikit Learn, Tensorflow*)
 * Image Caption Generator (*Python, Tensorflow*)
 * A website to draw 2D and 3D object and implementation of transformation algorithm to visualize data. (*WebGL, C++*)
 * Food Finder Website (*Php, MySQL*).

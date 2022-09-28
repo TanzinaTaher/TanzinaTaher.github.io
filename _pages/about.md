@@ -21,7 +21,7 @@ I am Farzad Ahmed, a Lecturer, at <a href="http://aust.edu/">Ahsanullah Universi
 
 
 # Activities 
-* <span style="color:Blue"> [September 29, 2022] </span> - Reached 50 citations on my Google Scholar profile. .
+* <span style="color:Blue"> [September 29, 2022] </span> - Reached 50 citations on my Google Scholar profile. 
 * <span style="color:Blue"> [July 21, 2022] </span> - One paper got accepted at [MIET 2022](https://confmiet.org/) .
 * <span style="color:Blue"> [September 14, 2021] </span> - One paper got accepted at [ICECIT 2021](https://conference.ku.ac.bd/ICECIT/2021/) .
 * <span style="color:Blue"> [August 28, 2021] </span> - One long paper got accepted at [Springer Nature Computer Science](https://link.springer.com/article/10.1007/s42979-021-00823-1) Journal.

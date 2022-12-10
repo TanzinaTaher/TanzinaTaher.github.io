@@ -21,7 +21,7 @@ I am Farzad Ahmed, a Lecturer, at <a href="http://aust.edu/">Ahsanullah Universi
 
 
 # Activities 
-* <span style="color:Blue"> [September 27, 2022] </span> - One paper got accepted at [ICCIT 2022](https://iccit.org.bd/2022/) .
+* <span style="color:Blue"> [December 09, 2022] </span> - One paper got accepted at [ICCIT 2022](https://iccit.org.bd/2022/) .
 * <span style="color:Blue"> [September 29, 2022] </span> - Reached 50+ citations on my Google Scholar profile. 
 * <span style="color:Blue"> [September 27, 2022] </span> - One paper got accepted at [CSDE 2022](https://ieee-csde.org/csde2022) .
 * <span style="color:Blue"> [July 21, 2022] </span> - One paper got accepted at [MIET 2022](https://confmiet.org/) .

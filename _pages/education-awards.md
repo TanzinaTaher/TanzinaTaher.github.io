@@ -14,10 +14,10 @@ redirect_from:
 
 
 * Ahsanullah University of Science and Technology (AUST), Dhaka, Bangladesh.
-* **CGPA:  3.923** [*out of 4.00*]
-* **1<sup>st</sup>** in Merit Position
-* **Thesis title:** ["Early Depression Detection from Social Media Using Deep Learning Techniques"](https://Farzad-1996.github.io/files/Farzad_B.Sc._Thesis.pdf) 
-* **Supervisor:** [Faisal Muhammad Shah](https://scholar.google.com/citations?user=su683LQAAAAJ&hl=en), Associate Professor, Department of CSE, AUST
+* **CGPA:  3.531** [*out of 4.00*]
+* **Thesis title:** ["Explainable Lung Disease Classification from Chest X-Ray Images Utilizing Deep Learning and XAI"](https://github.com/TanzinaTaher/TanzinaTaher.github.io/blob/master/files/Thesis.pdf) 
+* **Supervisor:** [Mr. Shoeb Mohammad Shahriar
+](https://scholar.google.com/citations?user=G6Nzng0AAAAJ&hl=en&fbclid=IwAR3pe2NuUG3APzJze-gttIbbeeiuP6oCFaKMwdMzUDUR90xk3N3Bh83Nh30), Assistant Professor, Department of CSE, AUST
 
 <br /> 
 # Participation and Awards

@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Farzad Ahmed"
+title                    : "Tanzina Taher Ifty"
 title_separator          : "-"
-name                     : &name "Farzad Ahmed"
+name                     : &name "Tanzina Taher"
 description              : &description "personal description"
-url                      : https://Farzad-1996.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://TanzinaTaher.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Farzad-1996/Farzad-1996.github.io"
+repository               : "TanzinaTaher/TanzinaTaher.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Farzad Ahmed"
+  name             : "Tanzina Taher"
   avatar           : "Farzad.jpg"
   bio              : "Dream Big or Go Home"
   location         : "Fairfax, VA, USA"
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Farzad-1996"
+  github           : "TanzinaTaher"
   google_plus      :
   keybase          :
   instagram        :

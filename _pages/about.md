@@ -24,7 +24,7 @@ I am Tanzina Taher, a recent graduate from <a href="http://aust.edu/">Ahsanullah
 
 
 * <span style="color:Blue"> [February 15, 2024] </span> - One paper got accepted at [ICMI 2024](https://www.icmiconf.com/?fbclid=IwAR30VBDgvnzGxKaZpGqpcMWmkZHeb7D8rUw667IYlCOnb0DFzbyuqIJmPSA#) .
-* <span style="color:Blue"> [November 21, 2023]  </span> - Successfully defended my [B.Sc. Thesis](https://Farzad-1996.github.io/files/Farzad_B.Sc._Thesis.pdf). 
+* <span style="color:Blue"> [November 21, 2023]  </span> - Successfully defended my [B.Sc. Thesis](https://github.com/TanzinaTaher/TanzinaTaher.github.io/blob/master/files/Thesis.pdf). 
 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=52vxgbx02tg&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
 

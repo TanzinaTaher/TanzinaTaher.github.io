@@ -15,7 +15,7 @@ Hi there!
 I am Tanzina Taher, a recent graduate from <a href="http://aust.edu/">Ahsanullah University of Science and Technology (AUST)</a>, Dhaka, Bangladesh. I have completed B.Sc. in Computer Science and Engineering in November 2023. My primary research interest lies in Machine Learning Applications, Computer Vision, and Natural Language Processing.<br /><br /></div>
    
 
-**For additional information, please see the [CV](https://Farzad-1996.github.io/cv/) and [publications](https://Farzad-1996.github.io/publications/).**
+**For additional information, please see the [CV](https://TanzinaTaher.github.io/cv/) and [publications](https://TanzinaTaher.github.io/publications/).**
 
 -----------
 

@@ -20,11 +20,7 @@ redirect_from:
 ](https://scholar.google.com/citations?user=G6Nzng0AAAAJ&hl=en&fbclid=IwAR3pe2NuUG3APzJze-gttIbbeeiuP6oCFaKMwdMzUDUR90xk3N3Bh83Nh30), Assistant Professor, Department of CSE, AUST
 
 <br /> 
-# Participation and Awards
 
-* **Dean's List of Honors** (Bachelor of Science)
-* Participated in International Conference on Electronics, Communications, and Information Technology 2021 (ICECIT 2021), Dhaka, Bangladesh
-* Participated in 2020 IEEE Region 10 Symposium (TENSYMP 2020), Dhaka, Bangladesh
 
 
 ___________________________________________

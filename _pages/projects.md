@@ -19,7 +19,7 @@ author_profile: true
 ----------------
 * Fake Review Detection (*Python, Tensorflow*).
 * Gene Promoter Classification (*Python, Tensorflow*).
-* Wordle game (*WebGL, C++*).
+* Wordle game (*WebGL, JavaScript*).
 * Library Management System (*C#, MySQL*).
 * Water Pump (*Arduino*).
 * Insurance Management System (*Java, MySQL*).

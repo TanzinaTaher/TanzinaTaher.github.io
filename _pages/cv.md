@@ -16,7 +16,7 @@ Dhaka, Bangladesh<br />
 
 
 
-[Download Full CV](https://farzad-1996.github.io/files/FarzadAhmedCV.pdf) [<ins>*Last Updated on August 9, 2022*</ins>]
+[Download Full CV](https://farzad-1996.github.io/files/FarzadAhmedCV.pdf) [<ins>*Last Updated on March 21, 2024*</ins>]
 
 ## Contact Me
 -------------

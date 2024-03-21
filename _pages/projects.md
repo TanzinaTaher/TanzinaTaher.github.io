@@ -8,25 +8,23 @@ author_profile: true
 ## Ongoing Projects
 ----------------
 
-### [2020 - *Current*]
+### [2023 - *Current*]
 -----------
-* Image Captioning.
-* Explainable Artificial Intelligence for Text and Image.
-* Paraphrasing of Bangla Text.
-* Topic Modelling.
+* Image Preprocessing.
+* Explainable Artificial Intelligence for Image.
+* Transformer.
+* Deep Learning Techniques
 
-## Undergraduate Course Projects [2015-2020]
+## Undergraduate Course Projects [2019-2023]
 ----------------
-* Benchmarking Different Versions of Bert (*Python, Tensorflow*)
-* Sentiment Classification (*Pyton, Scikit Learn, Tensorflow*)
-* Image Caption Generator (*Python, Tensorflow*)
-* A website to draw 2D and 3D object and implementation of transformation algorithm to visualize data. (*WebGL, C++*)
-* Food Finder Website (*Php, MySQL*).
-* Bluetooth Controlled Matrix Signboard (*Arduino*).
-* IELTS Exam (*Servlet, Eclipse*). 
-* Online Computer Shop (*C#, MySQL*).
-* Magnificient Cox's Bazaar (*Android Studio*).
-* Digital Logic Design Simulator (*Language: Java in NeatBeans IDE*).
-* Mario Hopper (*Language: C and iGraphics.h*).
+* Fake Review Detection (*Python, Tensorflow*).
+* Gene Promoter Classification (*Python, Tensorflow*).
+* Wordle game (*WebGL, C++*).
+* Library Management System (*C#, MySQL*).
+* Water Pump (*Arduino*).
+* Insurance Management System (*Java, MySQL*).
+* Fashion Style Website (*Php, MySQL*).
+* KHADOK- Food Delivery App (*Android Studio*).
+* Travel Agency Management System (*Language: Java in NeatBeans IDE*).
 
 __________________________________________________

@@ -16,7 +16,7 @@ Dhaka, Bangladesh<br />
 
 
 
-[Download Full CV](https://github.com/TanzinaTaher/TanzinaTaher.github.io/blob/master/files/Curriculum_Vitae.pdf) [<ins>*Last Updated on March 21, 2024*</ins>]
+[Download Full CV](https://github.com/TanzinaTaher/TanzinaTaher.github.io/blob/master/files/Curriculum_Vitae.pdf) [<ins>*Last Updated on April 15, 2024*</ins>]
 
 ## Contact Me
 -------------

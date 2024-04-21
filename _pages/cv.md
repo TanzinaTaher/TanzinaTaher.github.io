@@ -25,7 +25,7 @@ Dhaka, Bangladesh<br />
  <br /> 
 **Website:** [https://TanzinaTaher.github.io](https://TanzinaTaher.github.io/) <br />
 
-You can also find me on [Google Scholar]([https://scholar.google.com/citations?user=tFYmHMsAAAAJ&hl=en](https://scholar.google.com/citations?user=S9egq3MAAAAJ&hl=en)), [Github](https://github.com/TanzinaTaher).
+You can also find me on [Google Scholar]([https://scholar.google.com/citations?user=S9egq3MAAAAJ&hl=en]), [Github](https://github.com/TanzinaTaher).
 
 
 **Address:**

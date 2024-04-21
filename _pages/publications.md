@@ -5,5 +5,5 @@ permalink: /publications/
 author_profile: true
 ---
 
-<script src="https://bibbase.org/show?bib=https://bibbase.org/network/files/yxie9d6ErZbi23Awg&commas=true&jsonp=1&titleLinks=false&theme=default"></script>
+<script src="https://bibbase.org/show?bib=https%3A%2F%2Fbibbase.org%2Fnetwork%2Ffiles%2FtoPyzqM4kxui6NpYX&noBootstrap=1&jsonp=1"></script>
 

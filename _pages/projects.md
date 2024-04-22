@@ -22,7 +22,7 @@ author_profile: true
 * Wordle game (*WebGL, JavaScript*).
 * Library Management System (*C#, MySQL*).
 * Water Pump (*Arduino*).
-* Insurance Management System (*Java, MySQL*).
+* Insurance Management System [https://github.com/TanzinaTaher/InsuranceManagement] (*Java, MySQL*).
 * Fashion Style Website (*Php, MySQL*).
 * KHADOK- Food Delivery App (*Android Studio*).
 * Travel Agency Management System (*Language: Java in NeatBeans IDE*).

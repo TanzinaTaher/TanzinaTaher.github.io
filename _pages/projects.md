@@ -20,7 +20,7 @@ author_profile: true
 * [Fake Review Detection](https://github.com/TanzinaTaher/FakeReviewDetection) (*Python, Tensorflow*).
 * [Gene Promoter Classification](https://github.com/TanzinaTaher/GenePromoterClassification) (*Python, Tensorflow*).
 * [Wordle game](https://github.com/TanzinaTaher/Wordle-Game) (*WebGL, JavaScript*).
-* Library Management System (*C#, MySQL*).
+* [Library Management System](https://github.com/TanzinaTaher/Library-Management-System) (*C#, MySQL*).
 * Water Pump (*Arduino*).
 * [Insurance Management System](https://github.com/TanzinaTaher/InsuranceManagement) (*Java, MySQL*).
 * [Fashion Style Website](https://github.com/TanzinaTaher/FasionStyle-OnlineShoppingWebsite) (*Php, MySQL*).

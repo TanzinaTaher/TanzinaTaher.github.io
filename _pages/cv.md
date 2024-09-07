@@ -30,7 +30,7 @@ You can also find me on [Google Scholar](https://scholar.google.com/citations?us
 
 **Address:**
 <address>
-10251 Braddock Rd <br /> 
+10251 Braddock Rd, <br /> 
 Fairfax City, VA 22032 <br />
 United States of America <br /> 
 </address> 

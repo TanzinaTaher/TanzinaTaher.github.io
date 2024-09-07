@@ -22,7 +22,7 @@ I am Tanzina Taher, a recent graduate from <a href="http://aust.edu/">Ahsanullah
 
 # Activities 
 
-
+* <span style="color:Blue"> [July 11, 2024] </span> - One paper got published at [IEEE Xplore](https://ieeexplore.ieee.org/document/10586202)
 * <span style="color:Blue"> [February 15, 2024] </span> - One paper got accepted at [ICMI 2024](https://www.icmiconf.com/?fbclid=IwAR30VBDgvnzGxKaZpGqpcMWmkZHeb7D8rUw667IYlCOnb0DFzbyuqIJmPSA#) .
 * <span style="color:Blue"> [November 21, 2023]  </span> - Successfully defended my [B.Sc. Thesis](https://github.com/TanzinaTaher/TanzinaTaher.github.io/blob/master/files/Thesis.pdf). 
 

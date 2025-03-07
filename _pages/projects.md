@@ -10,7 +10,7 @@ author_profile: true
 
 ### [2023 - *Current*]
 -----------
-* Image Preprocessing.
+* Code Documentation Using LLMs.
 * Explainable Artificial Intelligence for Image.
 * Transformer.
 * Deep Learning Techniques

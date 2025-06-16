@@ -31,6 +31,22 @@ redirect_from:
 
 <br /> 
 
+### Higher Secondary Certificate (HSC)
+
+
+* Ideal School and College, Motijheel, Dhaka, Bangladesh.
+* **GPA:  5.00** [*out of 5.00*]
+
+<br /> 
+
+### Secondary School Certificate (SSC)
+
+
+* Motijheel Model School and College, Dhaka, Bangladesh.
+* **GPA:  5.00** [*out of 5.00*]
+
+<br /> 
+
 
 
 ___________________________________________

@@ -9,11 +9,27 @@ redirect_from:
 
 ## Education 
 -------------
+
+<b>Ph.D., Electrical and Computer Engineering</b><br />
+George Mason University<br />
+Fairfax, VA,USA<br />
+<i style='color:#000099;'>**Fall 2025 - Ongoing**</i>
+
+
 <b>B.Sc., Computer Science and Engineering</b><br />
 Ahsanullah University of Science and Technology<br />
 Dhaka, Bangladesh<br />
 <i style='color:#000099;'>**Spring 2019 - Fall 2022**</i>
 
+
+## Employment
+-------------
+
+<b>Graduate Teaching Assistant</b><br />
+Department of Electrical and Computer Engineering<br />
+George Mason University<br />
+
+<i style='color:#000099;'>**August 2025 - Present**</i>
 
 
 [Download Full CV](https://github.com/TanzinaTaher/TanzinaTaher.github.io/blob/master/files/Curriculum_Vitae.pdf) [<ins>*Last Updated on April 15, 2024*</ins>]
@@ -21,7 +37,7 @@ Dhaka, Bangladesh<br />
 ## Contact Me
 -------------
 
-**Email:** tanzina19taher [at] gmail [dot] com <br /> 
+**Email:** tanzina19taher [at] gmail [dot] com or tifty [at] gmu [dot] edu<br /> 
  <br /> 
 **Website:** [https://TanzinaTaher.github.io](https://TanzinaTaher.github.io/) <br />
 

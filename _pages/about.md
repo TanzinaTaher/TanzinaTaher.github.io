@@ -24,8 +24,8 @@ My research primarily focuses on robotics, where I explore how intelligent syste
 
 # Activities 
 
-* <span style="color:Blue"> [August 18, 2025] </span> - Joined as a Graduate Teaching Assistant in the [Department of ECE,](https://ece.gmu.edu/)[George Mason University](https://www.gmu.edu/)
-* <span style="color:Blue"> [August 18, 2025] </span> - Started Ph.D. in the [Department of ECE,](https://ece.gmu.edu/)[George Mason University](https://www.gmu.edu/)
+* <span style="color:Blue"> [August 18, 2025] </span> - Joined as a Graduate Teaching Assistant in the [Department of ECE,](https://ece.gmu.edu/) [George Mason University](https://www.gmu.edu/)
+* <span style="color:Blue"> [August 18, 2025] </span> - Started Ph.D. in the [Department of ECE,](https://ece.gmu.edu/) [George Mason University](https://www.gmu.edu/)
 * <span style="color:Blue"> [July 11, 2024] </span> - One paper got published at [IEEE Xplore](https://ieeexplore.ieee.org/document/10586202)
 * <span style="color:Blue"> [February 15, 2024] </span> - One paper got accepted at [ICMI 2024](https://www.icmiconf.com/?fbclid=IwAR30VBDgvnzGxKaZpGqpcMWmkZHeb7D8rUw667IYlCOnb0DFzbyuqIJmPSA#) .
 * <span style="color:Blue"> [November 21, 2023]  </span> - Successfully defended my [B.Sc. Thesis](https://github.com/TanzinaTaher/TanzinaTaher.github.io/blob/master/files/Thesis.pdf). 

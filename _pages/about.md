@@ -12,7 +12,7 @@ Hi there!
 
 <div style="text-align: justify"> 
 
-I am Tanzina Taher Ifty, a Ph.D. student in the Department of Electrical and Computer Engineering at <a href="https://www.gmu.edu/">George Mason University</a>, Fairfax, VA, USA. I am currently working as a Graduate Teaching Assistant under the supervision of Professor <a href="https://ece.gmu.edu/profiles/fferna3">Dr. Filipe Veiga</a>.
+I am Tanzina Taher Ifty, a Ph.D. student in the Department of <a href="https://ece.gmu.edu/">Electrical and Computer Engineering</a> at <a href="https://www.gmu.edu/">George Mason University</a>, Fairfax, VA, USA. I am currently working as a Graduate Teaching Assistant under the supervision of Professor <a href="https://ece.gmu.edu/profiles/fferna3">Dr. Filipe Veiga</a>.
 
 My research primarily focuses on robotics, where I explore how intelligent systems can perceive, learn, and act in dynamic real-world environments. I am particularly interested in integrating machine learning and Large Language Models (LLMs) to enhance robotic perception, reasoning, and decision-making. In addition to robotics, I have experience in computer vision, natural language processing (NLP), which complement my work in developing versatile and adaptive AI systems.<br /><br /></div>
    

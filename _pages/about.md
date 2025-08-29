@@ -24,6 +24,7 @@ My research primarily focuses on robotics, where I explore how intelligent syste
 
 # Activities 
 
+* <span style="color:Blue"> [August 22, 2025] </span> - One paper got accepted at [INLG 2025](https://2025.inlgmeeting.org/)
 * <span style="color:Blue"> [August 18, 2025] </span> - Joined as a Graduate Teaching Assistant in the [Department of ECE,](https://ece.gmu.edu/) [George Mason University](https://www.gmu.edu/)
 * <span style="color:Blue"> [August 18, 2025] </span> - Started Ph.D. in the [Department of ECE,](https://ece.gmu.edu/) [George Mason University](https://www.gmu.edu/)
 * <span style="color:Blue"> [July 11, 2024] </span> - One paper got published at [IEEE Xplore](https://ieeexplore.ieee.org/document/10586202)

@@ -10,10 +10,9 @@ author_profile: true
 
 ### [2023 - *Current*]
 -----------
-* Code Documentation Using LLMs.
-* Explainable Artificial Intelligence for Image.
-* Transformer.
-* Deep Learning Techniques
+* Imitation learning
+* Tactile-Sensing 
+* Robot manupulation
 
 ## Undergraduate Course Projects [2019-2023]
 ----------------

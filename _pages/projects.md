@@ -8,12 +8,17 @@ author_profile: true
 ## Ongoing Projects
 ----------------
 
-### [2023 - *Current*]
+### [*Research Interest*]
 -----------
 * Imitation learning
 * Tactile-Sensing 
 * Robot manupulation
 
+## Graduate Course Projects [2025-Current]
+----------------
+* [Target-Conditioned Shape-Based Object Search Using Tactile Sensing](https://github.com/TanzinaTaher/FakeReviewDetection) (*Python, Mujoco*).
+* [Stabilization of Inverted Pendulum](https://github.com/TanzinaTaher/GenePromoterClassification) (*MATLAB, Simulink*).
+  
 ## Undergraduate Course Projects [2019-2023]
 ----------------
 * [Fake Review Detection](https://github.com/TanzinaTaher/FakeReviewDetection) (*Python, Tensorflow*).

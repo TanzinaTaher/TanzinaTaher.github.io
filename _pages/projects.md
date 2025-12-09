@@ -17,7 +17,7 @@ author_profile: true
 ## Graduate Course Projects [2025-Current]
 ----------------
 * [Target-Conditioned Shape-Based Object Search Using Tactile Sensing](https://github.com/TanzinaTaher/FakeReviewDetection) (*Python, Mujoco*).
-* [Stabilization of Inverted Pendulum](https://github.com/TanzinaTaher/GenePromoterClassification) (*MATLAB, Simulink*).
+* [Comparative Controller Design for Inverted Pendulum Stabilization](https://github.com/TanzinaTaher/Stabilization-of-Inverted-Pendulum) (*MATLAB, Simulink*).
   
 ## Undergraduate Course Projects [2019-2023]
 ----------------

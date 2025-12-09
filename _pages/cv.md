@@ -25,6 +25,10 @@ Dhaka, Bangladesh<br />
 ## Employment
 -------------
 
+<b>Graduate Research Assistant</b><br />
+Department of Electrical and Computer Engineering<br />
+George Mason University<br />
+
 <b>Graduate Teaching Assistant</b><br />
 Department of Electrical and Computer Engineering<br />
 George Mason University<br />

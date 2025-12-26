@@ -15,6 +15,8 @@ redirect_from:
 
 
 * George Mason University, Fairfax, VA, USA.
+* **CGPA (Current): 4.00** [*out of 4.00*]
+* Graduate Research Assistant (*IPER LAB*)
 * **Supervisor:** [Dr. Filipe Veiga
 ](https://ece.gmu.edu/profiles/fferna3), Assistant Professor, Department of ECE, GMU
 

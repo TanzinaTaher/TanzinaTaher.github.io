@@ -24,6 +24,7 @@ My research focuses on robotics, particularly robot manipulation and robot learn
 
 # Activities 
 
+* <span style="color:Blue"> [January 10, 2026] </span> - Started working as a Graduate Research Assistant in the [Department of ECE,](https://ece.gmu.edu/) [George Mason University](https://www.gmu.edu/)
 * <span style="color:Blue"> [October 10, 2025] </span> - One paper got published at [ACL Anthology](https://aclanthology.org/2025.inlg-main.29.pdf)
 * <span style="color:Blue"> [August 22, 2025] </span> - One paper got accepted at [INLG 2025](https://2025.inlgmeeting.org/)
 * <span style="color:Blue"> [August 18, 2025] </span> - Joined as a Graduate Teaching Assistant in the [Department of ECE,](https://ece.gmu.edu/) [George Mason University](https://www.gmu.edu/)

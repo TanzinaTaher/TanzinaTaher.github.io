@@ -47,6 +47,9 @@ redirect_from:
 * Motijheel Model School and College, Dhaka, Bangladesh.
 * **GPA:  5.00** [*out of 5.00*]
 
+# Honors & Awards
+
+* **Fully Funded Scholarship** — Comprehensive graduate funding covering full tuition and stipend.
 <br /> 
 
 

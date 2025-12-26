@@ -36,7 +36,7 @@ George Mason University<br />
 <i style='color:#000099;'>**August 2025 - Present**</i>
 
 
-[Download Full CV](https://github.com/TanzinaTaher/TanzinaTaher.github.io/blob/master/files/CV.pdf) [<ins>*Last Updated on April 15, 2024*</ins>]
+[Download Full CV](https://github.com/TanzinaTaher/TanzinaTaher.github.io/blob/master/files/CV.pdf) [<ins>*Last Updated on August 25, 2025*</ins>]
 
 ## Contact Me
 -------------

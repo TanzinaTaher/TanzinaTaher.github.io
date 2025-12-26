@@ -47,7 +47,7 @@ redirect_from:
 * Motijheel Model School and College, Dhaka, Bangladesh.
 * **GPA:  5.00** [*out of 5.00*]
 
-
+<br /> 
 
 # Honors & Awards
 

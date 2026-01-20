@@ -29,11 +29,13 @@ Dhaka, Bangladesh<br />
 Department of Electrical and Computer Engineering<br />
 George Mason University<br />
 
+<i style='color:#000099;'>**January 2026 - Present**</i>
+
 <b>Graduate Teaching Assistant</b><br />
 Department of Electrical and Computer Engineering<br />
 George Mason University<br />
 
-<i style='color:#000099;'>**August 2025 - Present**</i>
+<i style='color:#000099;'>**August 2025 - December 2025**</i>
 
 
 [Download Full CV](https://github.com/TanzinaTaher/TanzinaTaher.github.io/blob/master/files/CV.pdf) [<ins>*Last Updated on August 25, 2025*</ins>]

@@ -10,12 +10,16 @@ author_profile: true
 
 ### [*Research Interest*]
 -----------
-* Imitation learning
-* Tactile-Sensing 
-* Robot manupulation
+* Game Theory
+* Machine Learning
+* Robotics
 
 ## Graduate Course Projects [2025-Current]
 ----------------
+
+* [Safe Decentralized Collision-Avoiding Swarm Formation with
+Grid-Based Local Information Sharing](https://github.com/TanzinaTaher/Safe-Decentralized-Collision-Avoiding-Swarm-Formation-with-Grid-Based-Local-Information-Sharing) (*Python*).
+* [State-Space System Identification Using the N4SID Subspace Method](https://github.com/TanzinaTaher/State-Space-System-Identification-Using-N4SID-Method) (*MATLAB*).
 * [Target-Conditioned Shape-Based Object Search Using Tactile Sensing](https://github.com/TanzinaTaher/Target-Conditioned-Shape-Based-Object-Search-Using-Tactile-Sensing) (*Python, Mujoco*).
 * [Comparative Controller Design for Inverted Pendulum Stabilization](https://github.com/TanzinaTaher/Stabilization-of-Inverted-Pendulum) (*MATLAB, Simulink*).
   

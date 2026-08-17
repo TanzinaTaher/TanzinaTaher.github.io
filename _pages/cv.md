@@ -25,11 +25,17 @@ Dhaka, Bangladesh<br />
 ## Employment
 -------------
 
+<b>Graduate Professional Assistant, Graduate Success Fellow</b><br />
+College of Engineering and Computing<br />
+George Mason University<br />
+
+<i style='color:#000099;'>**August 2026 - Present**</i>
+
 <b>Graduate Research Assistant</b><br />
 Department of Electrical and Computer Engineering<br />
 George Mason University<br />
 
-<i style='color:#000099;'>**January 2026 - Present**</i>
+<i style='color:#000099;'>**January 2026 - July 2026**</i>
 
 <b>Graduate Teaching Assistant</b><br />
 Department of Electrical and Computer Engineering<br />
